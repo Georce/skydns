@@ -1,7 +1,7 @@
 # The Project from https://github.com/skynetservices/skydns
 # Skydns Ver 2.2
 
-FROM debian:jessie
+FROM debian:6
 
 MAINTAINER wujian@wujian360.cn
 
