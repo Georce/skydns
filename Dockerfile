@@ -1,7 +1,7 @@
 # The Project from https://github.com/skynetservices/skydns
 # Skydns Ver 2.2
 
-FROM index.alauda.cn/dockerlibrary/debian:6
+FROM index.alauda.cn/library/debian:6
 
 MAINTAINER wujian@wujian360.cn
 
